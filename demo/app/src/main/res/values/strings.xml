@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiVideoKitDemo</string>
+    <string name="app_check">check</string>
+    <string name="app__3dapply">3Dapply</string>
+    <string name="app_stopeffect">STOPEFFECT</string>
+    <string name="app_dfapply">DFapply</string>
+    <string name="app_go">go</string>
+    <string name="app_ver">Ver</string>
+    <string name="app_stop">stop</string>
+    <string name="app_pause">pause</string>
+    <string name="app_">filter</string>
+    <string name="app__90">90</string>
+    <string name="app_level">strength</string>
+</resources>
